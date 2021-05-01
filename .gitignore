@@ -40,3 +40,5 @@ hs_err_pid*
 /Lab5/MDBLab/build/
 /Lab5/MDBLab/dist/
 /Lab5/MDBLab/nbproject/private/
+/Lab7/Complaints/target/
+/Lab7/ComplaintsClient/target/
